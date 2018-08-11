@@ -4,7 +4,7 @@
 #define  MAXS 10
 
 
-int main()
+int main10()
 {
 	srand((unsigned int)time(NULL));
 	int i = 0;
